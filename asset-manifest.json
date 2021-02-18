@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ndoan24/deploy-react.git/static/css/main.424abc6c.chunk.css",
-    "main.js": "/ndoan24/deploy-react.git/static/js/main.3a1b4a42.chunk.js",
-    "main.js.map": "/ndoan24/deploy-react.git/static/js/main.3a1b4a42.chunk.js.map",
-    "runtime-main.js": "/ndoan24/deploy-react.git/static/js/runtime-main.2f008af3.js",
-    "runtime-main.js.map": "/ndoan24/deploy-react.git/static/js/runtime-main.2f008af3.js.map",
-    "static/js/2.039b2eca.chunk.js": "/ndoan24/deploy-react.git/static/js/2.039b2eca.chunk.js",
-    "static/js/2.039b2eca.chunk.js.map": "/ndoan24/deploy-react.git/static/js/2.039b2eca.chunk.js.map",
-    "index.html": "/ndoan24/deploy-react.git/index.html",
-    "static/css/main.424abc6c.chunk.css.map": "/ndoan24/deploy-react.git/static/css/main.424abc6c.chunk.css.map",
-    "static/js/2.039b2eca.chunk.js.LICENSE.txt": "/ndoan24/deploy-react.git/static/js/2.039b2eca.chunk.js.LICENSE.txt"
+    "main.css": "/deploy-react/static/css/main.424abc6c.chunk.css",
+    "main.js": "/deploy-react/static/js/main.3a1b4a42.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.3a1b4a42.chunk.js.map",
+    "runtime-main.js": "/deploy-react/static/js/runtime-main.03673fa7.js",
+    "runtime-main.js.map": "/deploy-react/static/js/runtime-main.03673fa7.js.map",
+    "static/js/2.039b2eca.chunk.js": "/deploy-react/static/js/2.039b2eca.chunk.js",
+    "static/js/2.039b2eca.chunk.js.map": "/deploy-react/static/js/2.039b2eca.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "static/css/main.424abc6c.chunk.css.map": "/deploy-react/static/css/main.424abc6c.chunk.css.map",
+    "static/js/2.039b2eca.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.039b2eca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f008af3.js",
+    "static/js/runtime-main.03673fa7.js",
     "static/js/2.039b2eca.chunk.js",
     "static/css/main.424abc6c.chunk.css",
     "static/js/main.3a1b4a42.chunk.js"
